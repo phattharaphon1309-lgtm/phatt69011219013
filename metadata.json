@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการรายรับรายจ่าย (Thai Expense Tracker)",
+  "description": "เว็บแอปพลิเคชันบันทึกและวิเคราะห์รายรับรายจ่ายภาษาไทย จัดการหมวดหมู่ สรุปผลรายเดือน พร้อมกราฟวิเคราะห์ข้อมูล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
